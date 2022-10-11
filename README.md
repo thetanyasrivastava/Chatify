@@ -19,3 +19,9 @@ Screenshots
 
 
 <img width="350" alt="Chatify" src="https://user-images.githubusercontent.com/71485040/195107774-441165be-a7e3-459d-b668-47444ecff946.png">
+
+
+<img width="350" alt="Chatify Chats" src="https://user-images.githubusercontent.com/71485040/195128230-ad2265bf-f026-4b6f-bd99-ffc10827ebcb.jpg">
+
+
+<img width="350" alt="Chatify Chats user" src="https://user-images.githubusercontent.com/71485040/195128253-050231a6-c041-4d86-8f6b-169acf8b4cae.jpg">
